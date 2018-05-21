@@ -23,7 +23,7 @@ namespace Mageplaza\Smtp\Helper;
 
 use Magento\Framework\App\Area;
 use Magento\Store\Model\ScopeInterface;
-use Mageplaza\Core\Helper\AbstractData;
+use Mageplaza\Smtp\Helper\AbstractData;
 
 /**
  * Class Data
